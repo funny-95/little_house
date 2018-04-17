@@ -7,6 +7,7 @@
 		"minified": true,
 		"newFeature": true
 	},
+	"qcloudRoot":"./config/",
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wx27ca9b3939cf32f9",
